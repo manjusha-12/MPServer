@@ -1,0 +1,112 @@
+{
+  "allVideos": [
+    {
+      "caption": "Samayama Song",
+      "imgURL": "https://assets.gadgets360cdn.com/pricee/assets/product/202206/Sita-Ramam-poster_1656325728.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/USccSZnS8MQ",
+      "id": 1
+    },
+    {
+      "caption": "tutorial",
+      "imgURL": "http://c.saavncdn.com/662/Idhe-Idhe-From-Hi-Nanna-Telugu-2023-20231206141002-500x500.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/-s2LsXuUsHg",
+      "id": 5
+    },
+    {
+      "caption": "Thoda Thoda Pyaar Hua Song",
+      "imgURL": "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/12/Hi-Nanna-Movie.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/_0q4L93rg8w",
+      "id": 2
+    },
+    {
+      "caption": "Song",
+      "imgURL": "https://wallpapercave.com/wp/wp9022474.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/_0q4L93rg8w",
+      "id": 6
+    }
+  ],
+  "history": [
+    {
+      "id": "ccbf",
+      "caption": "Samayama Song",
+      "youtubeLink": "https://www.youtube.com/embed/Zz1M1iVEkwM",
+      "timeStamp": "5/30/2024, 3:50:10 PM GMT+5:30"
+    },
+    {
+      "id": "1d8c",
+      "caption": "Thoda Thoda Pyaar Hua Song",
+      "youtubeLink": "https://www.youtube.com/embed/USccSZnS8MQ",
+      "timeStamp": "5/30/2024, 3:50:13 PM GMT+5:30"
+    },
+    {
+      "id": "1cd8",
+      "caption": "Inkem Inkem Inkem Kavale",
+      "youtubeLink": "https://www.youtube.com/embed/cC8AmhPUJPA",
+      "timeStamp": "6/4/2024, 10:22:53 AM GMT+5:30"
+    },
+    {
+      "id": "c992",
+      "caption": "Kalyani Vacha Vacha",
+      "youtubeLink": "https://www.youtube.com/embed/d2EyMiSAbgw",
+      "timeStamp": "6/4/2024, 10:30:56 AM GMT+5:30"
+    },
+    {
+      "id": "73b0",
+      "caption": "Kalyani Vacha Vacha",
+      "youtubeLink": "https://www.youtube.com/embed/d2EyMiSAbgw",
+      "timeStamp": "6/4/2024, 10:31:09 AM GMT+5:30"
+    },
+    {
+      "id": "5ffc",
+      "caption": "video2",
+      "youtubeLink": "https://www.youtube.com/embed/dOKQeqGNJwY",
+      "timeStamp": "6/4/2024, 10:39:24 AM GMT+5:30"
+    },
+    {
+      "id": "4b73",
+      "caption": "Samayama Song",
+      "youtubeLink": "https://www.youtube.com/embed/Zz1M1iVEkwM",
+      "timeStamp": "6/4/2024, 10:39:30 AM GMT+5:30"
+    },
+    {
+      "id": "7593",
+      "caption": "Kalyani Vacha Vacha",
+      "youtubeLink": "https://www.youtube.com/embed/d2EyMiSAbgw",
+      "timeStamp": "6/4/2024, 10:23:26 PM GMT+5:30"
+    },
+    {
+      "id": "8e29",
+      "caption": "video2",
+      "youtubeLink": "https://www.youtube.com/embed/dOKQeqGNJwY",
+      "timeStamp": "6/4/2024, 10:51:46 PM GMT+5:30"
+    },
+    {
+      "id": "0ab8",
+      "caption": "video2",
+      "youtubeLink": "https://www.youtube.com/embed/dOKQeqGNJwY",
+      "timeStamp": "6/4/2024, 10:51:55 PM GMT+5:30"
+    },
+    {
+      "caption": "Maate Vinadhuga Song",
+      "youtubeLink": "https://www.youtube.com/embed/-s2LsXuUsHg",
+      "timeStamp": "6/5/2024, 10:40:02 AM GMT+5:30",
+      "id": "6LsEo09"
+    }
+  ],
+  "categories": [
+    {
+      "id": "a65f",
+      "categoryName": "Tamil",
+      "allVideos": []
+    },
+    {
+      "id": "THNGKrF",
+      "categoryName": "Telugu",
+      "allVideos": []
+    },
+    {
+      "categoryName": "Hindi ",
+      "allVideos": []
+    }
+  ]
+}
